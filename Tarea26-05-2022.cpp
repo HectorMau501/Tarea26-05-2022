@@ -2,10 +2,17 @@
 //
 
 #include <iostream>
+#include "Node.h"
+#include "Tree.h"
+
 
 int main()
 {
     std::cout << "Hello World!\n";
+
+    std::cout << "\n";
+    system("pause");
+    return 0;
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
